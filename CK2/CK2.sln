@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CK2", "CK2\CK2.csproj", "{86BFF3F9-2173-4933-B874-9F87E2325D2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86BFF3F9-2173-4933-B874-9F87E2325D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86BFF3F9-2173-4933-B874-9F87E2325D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86BFF3F9-2173-4933-B874-9F87E2325D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86BFF3F9-2173-4933-B874-9F87E2325D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7FD8E6E-E57C-4F05-BFA1-0A157BC7FC8C}
+	EndGlobalSection
+EndGlobal

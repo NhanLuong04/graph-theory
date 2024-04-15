@@ -1,0 +1,7 @@
+D:\ĐH\Sophomore\LTĐT\CODE\GK\GKLTDT\GKLTDT\bin\Debug\GKLTDT.exe.config
+D:\ĐH\Sophomore\LTĐT\CODE\GK\GKLTDT\GKLTDT\bin\Debug\GKLTDT.exe
+D:\ĐH\Sophomore\LTĐT\CODE\GK\GKLTDT\GKLTDT\bin\Debug\GKLTDT.pdb
+D:\ĐH\Sophomore\LTĐT\CODE\GK\GKLTDT\GKLTDT\obj\Debug\GKLTDT.csproj.AssemblyReference.cache
+D:\ĐH\Sophomore\LTĐT\CODE\GK\GKLTDT\GKLTDT\obj\Debug\GKLTDT.csproj.CoreCompileInputs.cache
+D:\ĐH\Sophomore\LTĐT\CODE\GK\GKLTDT\GKLTDT\obj\Debug\GKLTDT.exe
+D:\ĐH\Sophomore\LTĐT\CODE\GK\GKLTDT\GKLTDT\obj\Debug\GKLTDT.pdb

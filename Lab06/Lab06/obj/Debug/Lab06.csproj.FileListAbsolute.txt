@@ -1,0 +1,7 @@
+D:\ĐH\Sophomore\LTĐT\CODE\Lab06\Lab06\bin\Debug\Lab06.exe.config
+D:\ĐH\Sophomore\LTĐT\CODE\Lab06\Lab06\bin\Debug\Lab06.exe
+D:\ĐH\Sophomore\LTĐT\CODE\Lab06\Lab06\bin\Debug\Lab06.pdb
+D:\ĐH\Sophomore\LTĐT\CODE\Lab06\Lab06\obj\Debug\Lab06.csproj.AssemblyReference.cache
+D:\ĐH\Sophomore\LTĐT\CODE\Lab06\Lab06\obj\Debug\Lab06.csproj.CoreCompileInputs.cache
+D:\ĐH\Sophomore\LTĐT\CODE\Lab06\Lab06\obj\Debug\Lab06.exe
+D:\ĐH\Sophomore\LTĐT\CODE\Lab06\Lab06\obj\Debug\Lab06.pdb

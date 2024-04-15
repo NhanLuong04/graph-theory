@@ -1,0 +1,7 @@
+D:\ĐH\Sophomore\LTĐT\CODE\CK2\CK2\bin\Debug\CK2.exe.config
+D:\ĐH\Sophomore\LTĐT\CODE\CK2\CK2\bin\Debug\CK2.exe
+D:\ĐH\Sophomore\LTĐT\CODE\CK2\CK2\bin\Debug\CK2.pdb
+D:\ĐH\Sophomore\LTĐT\CODE\CK2\CK2\obj\Debug\CK2.csproj.AssemblyReference.cache
+D:\ĐH\Sophomore\LTĐT\CODE\CK2\CK2\obj\Debug\CK2.csproj.CoreCompileInputs.cache
+D:\ĐH\Sophomore\LTĐT\CODE\CK2\CK2\obj\Debug\CK2.exe
+D:\ĐH\Sophomore\LTĐT\CODE\CK2\CK2\obj\Debug\CK2.pdb

@@ -1,0 +1,7 @@
+D:\ĐH\Sophomore\LTĐT\CODE\Lab08\Lab08\bin\Debug\Lab08.exe.config
+D:\ĐH\Sophomore\LTĐT\CODE\Lab08\Lab08\bin\Debug\Lab08.exe
+D:\ĐH\Sophomore\LTĐT\CODE\Lab08\Lab08\bin\Debug\Lab08.pdb
+D:\ĐH\Sophomore\LTĐT\CODE\Lab08\Lab08\obj\Debug\Lab08.csproj.AssemblyReference.cache
+D:\ĐH\Sophomore\LTĐT\CODE\Lab08\Lab08\obj\Debug\Lab08.csproj.CoreCompileInputs.cache
+D:\ĐH\Sophomore\LTĐT\CODE\Lab08\Lab08\obj\Debug\Lab08.exe
+D:\ĐH\Sophomore\LTĐT\CODE\Lab08\Lab08\obj\Debug\Lab08.pdb
